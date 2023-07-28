@@ -1,0 +1,24 @@
+conda create -p venv python==3.10 -y
+
+conda activate venv/
+
+----create a requirements.txt file and write Flask in it.
+
+pip install -r requirements.txt
+
+write code on the python file you have created and type--->   python app.py     on CMD base
+
+click on- http://127.0.0.1:5000
+-- it will write Hello WOrld!
+
+type the decorator names using a / with this url, for example ---->   http://127.0.0.1:5000/welcome
+-----output = Welcome to the flask tutorial
+
+
+suppose you wanna run index decoratore, then type --->    http://127.0.0.1:5000/index
+----output = Welcome to the index page
+
+
+ 
+
+
