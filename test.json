@@ -1,0 +1,7 @@
+{
+    "operation":"loop_of_dictionary",
+    "dictionary1" : {"key1":"value1", "name":"simmi", "surname":"singh", "email":"simmisingh@gmail.com", "ph no.":"9110940835"},
+    "list1": ["shweta", "singhal"],
+    "list2": ["anidha", "simmi"]
+
+}
